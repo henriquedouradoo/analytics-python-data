@@ -4,7 +4,7 @@ Conteúdos: Python para Análise de Dados | Controle de Versão | Fundamentos de
 
  
 Python para Análise de Dados:
-
+ 
   Variáveis e tipos de dados |  
   Estrutura de dados |  
   Condicionais e loops | 
