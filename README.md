@@ -7,7 +7,7 @@ Python para Análise de Dados:
  
   Variáveis e tipos de dados |   
   Estrutura de dados |    
-  Condicionais e loops |  
+  Condicionais e loops |   
   Arquivos e funções |  
   Programação funcional |  
   Programação orientada a objetos |
