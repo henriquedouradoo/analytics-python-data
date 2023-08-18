@@ -9,7 +9,7 @@ Python para Análise de Dados:
   Estrutura de dados |    
   Condicionais e loops |   
   Arquivos e funções |  
-  Programação funcional |  
+  Programação funcional |   
   Programação orientada a objetos |
   Módulos e pacotes |  
   Erros e exceções |
