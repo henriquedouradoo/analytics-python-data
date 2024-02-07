@@ -11,7 +11,7 @@ Python para Análise de Dados:
   Arquivos e funções |    
   Programação funcional |   
   Programação orientada a objetos |
-  Módulos e pacotes |  
+  Módulos e pacotes |   
   Erros e exceções |
   Scripting |
 
